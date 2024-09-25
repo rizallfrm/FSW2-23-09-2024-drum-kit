@@ -8,7 +8,7 @@ for (let i = 0; i < totalButton; i++) {
 
         switch (this.innerHTML) {
             case "w":
-                let tom1 = new Audio("./sounds/tom-1.mp3");
+                let tom1 = new Audio(".sounds/tom-1.mp3");
                 tom1.play();
                 break;
             case "a":
