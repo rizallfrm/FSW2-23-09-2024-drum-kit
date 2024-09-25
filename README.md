@@ -5,6 +5,7 @@ Drum Kit is a simple web-based application that allows users to play various dru
 ## Demo
 
 <img src="/ch2-09-23-2024/images/image.png">
+
 ## Feature
 
 - Play drum sounds using the keyboard (`w`, `a`, `s`, `d`, `j`, `k`, `l`).
