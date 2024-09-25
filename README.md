@@ -4,7 +4,7 @@ Drum Kit is a simple web-based application that allows users to play various dru
 
 ## Demo
 
-<img src="/ch2-09-23-2024/images/image.png">
+<img src="./images/image.png">
 
 ## Feature
 
@@ -13,7 +13,7 @@ Drum Kit is a simple web-based application that allows users to play various dru
 - Interactive display.
 
 ## Flowchart
-<img src="/ch2-09-23-2024/images/drum-kit-flow..png">
+<img src="./images/drum-kit-flow..png">
 
 ## How to use
 
